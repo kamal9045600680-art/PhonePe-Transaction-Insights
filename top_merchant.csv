@@ -1,0 +1,682 @@
+year,quarter,category,rank,name,registered_count
+2018,1,states,1,karnataka,11162
+2018,1,states,2,maharashtra,1643
+2018,1,states,3,tamil nadu,48
+2018,1,states,4,telangana,36
+2018,1,states,5,delhi,35
+2018,1,states,6,rajasthan,33
+2018,1,states,7,andhra pradesh,30
+2018,1,states,8,west bengal,29
+2018,1,states,9,uttar pradesh,24
+2018,1,states,10,gujarat,23
+2018,1,districts,1,bengaluru urban district,10750
+2018,1,districts,2,mumbai suburban district,1102
+2018,1,districts,3,thane district,306
+2018,1,districts,4,bengaluru rural district,175
+2018,1,districts,5,mumbai district,71
+2018,1,districts,6,kolar district,69
+2018,1,districts,7,pune district,62
+2018,1,districts,8,palghar district,58
+2018,1,districts,9,tumakuru district,49
+2018,1,districts,10,bengaluru south district,27
+2018,1,districts,11,yadgiri district,27
+2018,2,states,1,karnataka,18604
+2018,2,states,2,maharashtra,6629
+2018,2,states,3,delhi,1582
+2018,2,states,4,telangana,395
+2018,2,states,5,uttar pradesh,342
+2018,2,states,6,haryana,168
+2018,2,states,7,west bengal,153
+2018,2,states,8,andhra pradesh,140
+2018,2,states,9,rajasthan,139
+2018,2,states,10,gujarat,112
+2018,2,districts,1,bengaluru urban district,17789
+2018,2,districts,2,mumbai suburban district,2743
+2018,2,districts,3,thane district,1097
+2018,2,districts,4,nagpur district,713
+2018,2,districts,5,pune district,637
+2018,2,districts,6,mumbai district,463
+2018,2,districts,7,bengaluru rural district,435
+2018,2,districts,8,palghar district,350
+2018,2,districts,9,south west district,259
+2018,2,districts,10,new delhi district,209
+2018,3,states,1,karnataka,65096
+2018,3,states,2,maharashtra,38653
+2018,3,states,3,telangana,31579
+2018,3,states,4,delhi,20830
+2018,3,states,5,andhra pradesh,9605
+2018,3,states,6,rajasthan,8587
+2018,3,states,7,uttar pradesh,5805
+2018,3,states,8,haryana,3949
+2018,3,states,9,west bengal,387
+2018,3,states,10,gujarat,274
+2018,3,districts,1,bengaluru urban district,61661
+2018,3,districts,2,mumbai suburban district,14589
+2018,3,districts,3,medchal malkajgiri district,11153
+2018,3,districts,4,rangareddy district,10590
+2018,3,districts,5,hyderabad district,8635
+2018,3,districts,6,jaipur district,8338
+2018,3,districts,7,visakhapatnam district,7638
+2018,3,districts,8,thane district,6486
+2018,3,districts,9,palghar district,6100
+2018,3,districts,10,nagpur district,5143
+2018,4,states,1,karnataka,230749
+2018,4,states,2,maharashtra,229210
+2018,4,states,3,delhi,122312
+2018,4,states,4,telangana,116006
+2018,4,states,5,rajasthan,45801
+2018,4,states,6,uttar pradesh,44207
+2018,4,states,7,haryana,29642
+2018,4,states,8,andhra pradesh,28877
+2018,4,states,9,tamil nadu,12417
+2018,4,states,10,west bengal,2273
+2018,4,districts,1,bengaluru urban district,212750
+2018,4,districts,2,mumbai suburban district,82371
+2018,4,districts,3,thane district,60901
+2018,4,districts,4,hyderabad district,43089
+2018,4,districts,5,jaipur district,41232
+2018,4,districts,6,medchal malkajgiri district,35090
+2018,4,districts,7,rangareddy district,32254
+2018,4,districts,8,palghar district,25622
+2018,4,districts,9,mumbai district,22025
+2018,4,districts,10,gautambuddha nagar district,21600
+2019,1,states,1,maharashtra,698175
+2019,1,states,2,karnataka,386773
+2019,1,states,3,delhi,291072
+2019,1,states,4,telangana,280921
+2019,1,states,5,uttar pradesh,234825
+2019,1,states,6,rajasthan,198786
+2019,1,states,7,west bengal,160231
+2019,1,states,8,haryana,120132
+2019,1,states,9,andhra pradesh,117391
+2019,1,states,10,tamil nadu,89054
+2019,1,districts,1,bengaluru urban district,316319
+2019,1,districts,2,mumbai suburban district,204439
+2019,1,districts,3,thane district,156777
+2019,1,districts,4,jaipur district,109402
+2019,1,districts,5,pune district,89231
+2019,1,districts,6,hyderabad district,89190
+2019,1,districts,7,medchal malkajgiri district,75751
+2019,1,districts,8,rangareddy district,71945
+2019,1,districts,9,palghar district,54906
+2019,1,districts,10,gautambuddha nagar district,52242
+2019,2,states,1,maharashtra,1019256
+2019,2,states,2,karnataka,596683
+2019,2,states,3,uttar pradesh,480618
+2019,2,states,4,west bengal,408272
+2019,2,states,5,telangana,388096
+2019,2,states,6,delhi,377636
+2019,2,states,7,rajasthan,329767
+2019,2,states,8,tamil nadu,230529
+2019,2,states,9,madhya pradesh,225653
+2019,2,states,10,gujarat,218360
+2019,2,districts,1,bengaluru urban district,409770
+2019,2,districts,2,mumbai suburban district,246023
+2019,2,districts,3,pune district,200518
+2019,2,districts,4,thane district,196824
+2019,2,districts,5,jaipur district,166860
+2019,2,districts,6,hyderabad district,113122
+2019,2,districts,7,medchal malkajgiri district,101601
+2019,2,districts,8,chennai district,100793
+2019,2,districts,9,rangareddy district,92781
+2019,2,districts,10,ahmedabad district,91757
+2019,3,states,1,maharashtra,1309633
+2019,3,states,2,karnataka,786775
+2019,3,states,3,uttar pradesh,671645
+2019,3,states,4,west bengal,557605
+2019,3,states,5,telangana,490375
+2019,3,states,6,delhi,457771
+2019,3,states,7,rajasthan,452793
+2019,3,states,8,gujarat,379073
+2019,3,states,9,madhya pradesh,358087
+2019,3,states,10,tamil nadu,318903
+2019,3,districts,1,bengaluru urban district,525483
+2019,3,districts,2,mumbai suburban district,285799
+2019,3,districts,3,pune district,281916
+2019,3,districts,4,thane district,234828
+2019,3,districts,5,jaipur district,219483
+2019,3,districts,6,hyderabad district,136575
+2019,3,districts,7,ahmedabad district,134876
+2019,3,districts,8,chennai district,134463
+2019,3,districts,9,medchal malkajgiri district,126284
+2019,3,districts,10,rangareddy district,116367
+2019,4,states,1,maharashtra,1597195
+2019,4,states,2,karnataka,938176
+2019,4,states,3,uttar pradesh,828695
+2019,4,states,4,west bengal,667857
+2019,4,states,5,telangana,571643
+2019,4,states,6,rajasthan,542233
+2019,4,states,7,delhi,535746
+2019,4,states,8,gujarat,479820
+2019,4,states,9,madhya pradesh,440884
+2019,4,states,10,tamil nadu,406910
+2019,4,districts,1,bengaluru urban district,610444
+2019,4,districts,2,pune district,348258
+2019,4,districts,3,mumbai suburban district,331253
+2019,4,districts,4,thane district,276967
+2019,4,districts,5,jaipur district,249322
+2019,4,districts,6,chennai district,163388
+2019,4,districts,7,ahmedabad district,163356
+2019,4,districts,8,hyderabad district,153947
+2019,4,districts,9,medchal malkajgiri district,144092
+2019,4,districts,10,rangareddy district,134628
+2020,1,states,1,maharashtra,1861784
+2020,1,states,2,karnataka,1076061
+2020,1,states,3,uttar pradesh,979673
+2020,1,states,4,west bengal,775932
+2020,1,states,5,telangana,640815
+2020,1,states,6,rajasthan,628462
+2020,1,states,7,delhi,620971
+2020,1,states,8,gujarat,575783
+2020,1,states,9,madhya pradesh,513846
+2020,1,states,10,tamil nadu,484793
+2020,1,districts,1,bengaluru urban district,686801
+2020,1,districts,2,pune district,405449
+2020,1,districts,3,mumbai suburban district,380037
+2020,1,districts,4,thane district,317884
+2020,1,districts,5,jaipur district,281744
+2020,1,districts,6,ahmedabad district,196520
+2020,1,districts,7,chennai district,190726
+2020,1,districts,8,hyderabad district,169563
+2020,1,districts,9,medchal malkajgiri district,160226
+2020,1,districts,10,rangareddy district,149730
+2020,2,states,1,maharashtra,1925780
+2020,2,states,2,karnataka,1155989
+2020,2,states,3,uttar pradesh,1043964
+2020,2,states,4,west bengal,813620
+2020,2,states,5,telangana,673726
+2020,2,states,6,rajasthan,671680
+2020,2,states,7,delhi,662128
+2020,2,states,8,gujarat,623195
+2020,2,states,9,madhya pradesh,550154
+2020,2,states,10,tamil nadu,516057
+2020,2,districts,1,bengaluru urban district,734297
+2020,2,districts,2,pune district,421334
+2020,2,districts,3,mumbai suburban district,385981
+2020,2,districts,4,thane district,323919
+2020,2,districts,5,jaipur district,296293
+2020,2,districts,6,ahmedabad district,212844
+2020,2,districts,7,chennai district,199179
+2020,2,districts,8,hyderabad district,175767
+2020,2,districts,9,medchal malkajgiri district,168368
+2020,2,districts,10,rangareddy district,157053
+2020,3,states,1,maharashtra,2160587
+2020,3,states,2,karnataka,1360600
+2020,3,states,3,uttar pradesh,1242714
+2020,3,states,4,west bengal,922488
+2020,3,states,5,rajasthan,808116
+2020,3,states,6,delhi,806650
+2020,3,states,7,telangana,802189
+2020,3,states,8,gujarat,757523
+2020,3,states,9,madhya pradesh,654441
+2020,3,states,10,tamil nadu,620844
+2020,3,districts,1,bengaluru urban district,851361
+2020,3,districts,2,pune district,486425
+2020,3,districts,3,mumbai suburban district,418863
+2020,3,districts,4,thane district,348391
+2020,3,districts,5,jaipur district,338494
+2020,3,districts,6,ahmedabad district,258927
+2020,3,districts,7,chennai district,231001
+2020,3,districts,8,hyderabad district,200958
+2020,3,districts,9,medchal malkajgiri district,196241
+2020,3,districts,10,rangareddy district,181813
+2020,4,states,1,maharashtra,2544284
+2020,4,states,2,uttar pradesh,1586664
+2020,4,states,3,karnataka,1559103
+2020,4,states,4,west bengal,1136123
+2020,4,states,5,telangana,986977
+2020,4,states,6,rajasthan,981664
+2020,4,states,7,delhi,956264
+2020,4,states,8,gujarat,915535
+2020,4,states,9,madhya pradesh,839834
+2020,4,states,10,tamil nadu,769374
+2020,4,districts,1,bengaluru urban district,943722
+2020,4,districts,2,pune district,565357
+2020,4,districts,3,mumbai suburban district,468538
+2020,4,districts,4,thane district,383833
+2020,4,districts,5,jaipur district,380792
+2020,4,districts,6,ahmedabad district,304257
+2020,4,districts,7,chennai district,259299
+2020,4,districts,8,hyderabad district,229680
+2020,4,districts,9,medchal malkajgiri district,225664
+2020,4,districts,10,north twenty four parganas district,210169
+2021,1,states,1,maharashtra,2884303
+2021,1,states,2,uttar pradesh,2059413
+2021,1,states,3,karnataka,1724839
+2021,1,states,4,west bengal,1344929
+2021,1,states,5,rajasthan,1160473
+2021,1,states,6,telangana,1156920
+2021,1,states,7,delhi,1076714
+2021,1,states,8,gujarat,1057340
+2021,1,states,9,madhya pradesh,1038097
+2021,1,states,10,tamil nadu,912668
+2021,1,districts,1,bengaluru urban district,1009268
+2021,1,districts,2,pune district,626595
+2021,1,districts,3,mumbai suburban district,508318
+2021,1,districts,4,thane district,417047
+2021,1,districts,5,jaipur district,413897
+2021,1,districts,6,ahmedabad district,339817
+2021,1,districts,7,chennai district,281391
+2021,1,districts,8,hyderabad district,259052
+2021,1,districts,9,medchal malkajgiri district,252311
+2021,1,districts,10,north twenty four parganas district,239362
+2021,2,states,1,maharashtra,3023504
+2021,2,states,2,uttar pradesh,2328409
+2021,2,states,3,karnataka,1777995
+2021,2,states,4,west bengal,1467960
+2021,2,states,5,rajasthan,1273446
+2021,2,states,6,telangana,1230127
+2021,2,states,7,gujarat,1139225
+2021,2,states,8,delhi,1126168
+2021,2,states,9,madhya pradesh,1117867
+2021,2,states,10,tamil nadu,975536
+2021,2,districts,1,bengaluru urban district,1026383
+2021,2,districts,2,pune district,652395
+2021,2,districts,3,mumbai suburban district,521423
+2021,2,districts,4,jaipur district,434488
+2021,2,districts,5,thane district,430548
+2021,2,districts,6,ahmedabad district,358989
+2021,2,districts,7,chennai district,289962
+2021,2,districts,8,hyderabad district,272044
+2021,2,districts,9,medchal malkajgiri district,263936
+2021,2,districts,10,north twenty four parganas district,254004
+2021,3,states,1,maharashtra,3290552
+2021,3,states,2,uttar pradesh,2857565
+2021,3,states,3,karnataka,1911755
+2021,3,states,4,west bengal,1640034
+2021,3,states,5,rajasthan,1461773
+2021,3,states,6,telangana,1326576
+2021,3,states,7,madhya pradesh,1314899
+2021,3,states,8,gujarat,1237105
+2021,3,states,9,delhi,1228686
+2021,3,states,10,bihar,1100249
+2021,3,districts,1,bengaluru urban district,1068358
+2021,3,districts,2,pune district,697947
+2021,3,districts,3,mumbai suburban district,541903
+2021,3,districts,4,jaipur district,465481
+2021,3,districts,5,thane district,453949
+2021,3,districts,6,ahmedabad district,378627
+2021,3,districts,7,chennai district,301415
+2021,3,districts,8,hyderabad district,286835
+2021,3,districts,9,medchal malkajgiri district,278585
+2021,3,districts,10,north twenty four parganas district,275549
+2021,4,states,1,maharashtra,3607998
+2021,4,states,2,uttar pradesh,3413744
+2021,4,states,3,karnataka,2036736
+2021,4,states,4,west bengal,1841977
+2021,4,states,5,rajasthan,1643349
+2021,4,states,6,madhya pradesh,1523277
+2021,4,states,7,telangana,1434453
+2021,4,states,8,delhi,1313333
+2021,4,states,9,bihar,1305682
+2021,4,states,10,gujarat,1293971
+2021,4,districts,1,bengaluru urban district,1104247
+2021,4,districts,2,pune district,743619
+2021,4,districts,3,mumbai suburban district,565910
+2021,4,districts,4,jaipur district,493278
+2021,4,districts,5,thane district,483422
+2021,4,districts,6,ahmedabad district,368615
+2021,4,districts,7,chennai district,310509
+2021,4,districts,8,north twenty four parganas district,302608
+2021,4,districts,9,hyderabad district,300187
+2021,4,districts,10,medchal malkajgiri district,292903
+2022,1,states,1,uttar pradesh,4069314
+2022,1,states,2,maharashtra,3932588
+2022,1,states,3,karnataka,2174104
+2022,1,states,4,west bengal,2052296
+2022,1,states,5,rajasthan,1863349
+2022,1,states,6,madhya pradesh,1697225
+2022,1,states,7,bihar,1548974
+2022,1,states,8,telangana,1545651
+2022,1,states,9,delhi,1422784
+2022,1,states,10,gujarat,1418981
+2022,1,districts,1,bengaluru urban district,1154596
+2022,1,districts,2,pune district,801449
+2022,1,districts,3,mumbai suburban district,595855
+2022,1,districts,4,jaipur district,527864
+2022,1,districts,5,thane district,516043
+2022,1,districts,6,ahmedabad district,387797
+2022,1,districts,7,north twenty four parganas district,328184
+2022,1,districts,8,chennai district,325145
+2022,1,districts,9,hyderabad district,315537
+2022,1,districts,10,lucknow district,310185
+2022,2,states,1,uttar pradesh,4486248
+2022,2,states,2,maharashtra,4180983
+2022,2,states,3,karnataka,2291533
+2022,2,states,4,west bengal,2198980
+2022,2,states,5,rajasthan,2003276
+2022,2,states,6,madhya pradesh,1812068
+2022,2,states,7,bihar,1703453
+2022,2,states,8,telangana,1632694
+2022,2,states,9,delhi,1511233
+2022,2,states,10,gujarat,1508860
+2022,2,districts,1,bengaluru urban district,1199276
+2022,2,districts,2,pune district,851021
+2022,2,districts,3,mumbai suburban district,618439
+2022,2,districts,4,jaipur district,551362
+2022,2,districts,5,thane district,542129
+2022,2,districts,6,ahmedabad district,403910
+2022,2,districts,7,north twenty four parganas district,346100
+2022,2,districts,8,chennai district,335260
+2022,2,districts,9,lucknow district,330403
+2022,2,districts,10,hyderabad district,327620
+2022,3,states,1,uttar pradesh,4865043
+2022,3,states,2,maharashtra,4352350
+2022,3,states,3,karnataka,2383894
+2022,3,states,4,west bengal,2336122
+2022,3,states,5,rajasthan,2112900
+2022,3,states,6,madhya pradesh,1923099
+2022,3,states,7,bihar,1848624
+2022,3,states,8,telangana,1698591
+2022,3,states,9,gujarat,1575338
+2022,3,states,10,delhi,1557751
+2022,3,districts,1,bengaluru urban district,1225436
+2022,3,districts,2,pune district,881604
+2022,3,districts,3,mumbai suburban district,630670
+2022,3,districts,4,jaipur district,570596
+2022,3,districts,5,thane district,556446
+2022,3,districts,6,ahmedabad district,414272
+2022,3,districts,7,north twenty four parganas district,362676
+2022,3,districts,8,lucknow district,344447
+2022,3,districts,9,chennai district,342301
+2022,3,districts,10,hyderabad district,334782
+2022,4,states,1,uttar pradesh,5262234
+2022,4,states,2,maharashtra,4508736
+2022,4,states,3,west bengal,2460123
+2022,4,states,4,karnataka,2456318
+2022,4,states,5,rajasthan,2221707
+2022,4,states,6,madhya pradesh,2040575
+2022,4,states,7,bihar,1983316
+2022,4,states,8,telangana,1755424
+2022,4,states,9,tamil nadu,1632127
+2022,4,states,10,gujarat,1624532
+2022,4,districts,1,bengaluru urban district,1245443
+2022,4,districts,2,pune district,909382
+2022,4,districts,3,mumbai suburban district,639587
+2022,4,districts,4,jaipur district,592486
+2022,4,districts,5,thane district,568313
+2022,4,districts,6,ahmedabad district,420879
+2022,4,districts,7,north twenty four parganas district,379042
+2022,4,districts,8,lucknow district,357255
+2022,4,districts,9,chennai district,346494
+2022,4,districts,10,hyderabad district,340713
+2023,1,states,1,uttar pradesh,5259389
+2023,1,states,2,maharashtra,4522908
+2023,1,states,3,west bengal,2476853
+2023,1,states,4,karnataka,2448968
+2023,1,states,5,rajasthan,2212283
+2023,1,states,6,madhya pradesh,2083024
+2023,1,states,7,bihar,1998018
+2023,1,states,8,telangana,1767962
+2023,1,states,9,tamil nadu,1653481
+2023,1,states,10,gujarat,1582606
+2023,1,districts,1,bengaluru urban district,1218693
+2023,1,districts,2,pune district,900629
+2023,1,districts,3,mumbai suburban district,627558
+2023,1,districts,4,jaipur district,574116
+2023,1,districts,5,thane district,561283
+2023,1,districts,6,ahmedabad district,405350
+2023,1,districts,7,north twenty four parganas district,378246
+2023,1,districts,8,chennai district,341957
+2023,1,districts,9,hyderabad district,339217
+2023,1,districts,10,medchal malkajgiri district,335190
+2023,2,states,1,uttar pradesh,5399393
+2023,2,states,2,maharashtra,4608963
+2023,2,states,3,west bengal,2540990
+2023,2,states,4,karnataka,2486882
+2023,2,states,5,rajasthan,2257614
+2023,2,states,6,madhya pradesh,2142311
+2023,2,states,7,bihar,2036559
+2023,2,states,8,telangana,1798270
+2023,2,states,9,tamil nadu,1683247
+2023,2,states,10,gujarat,1606526
+2023,2,districts,1,bengaluru urban district,1233922
+2023,2,districts,2,pune district,921491
+2023,2,districts,3,mumbai suburban district,633398
+2023,2,districts,4,jaipur district,582061
+2023,2,districts,5,thane district,569785
+2023,2,districts,6,ahmedabad district,410910
+2023,2,districts,7,north twenty four parganas district,386885
+2023,2,districts,8,chennai district,346252
+2023,2,districts,9,hyderabad district,343659
+2023,2,districts,10,medchal malkajgiri district,341239
+2023,3,states,1,uttar pradesh,5617414
+2023,3,states,2,maharashtra,4734743
+2023,3,states,3,west bengal,2645684
+2023,3,states,4,karnataka,2549956
+2023,3,states,5,rajasthan,2324919
+2023,3,states,6,madhya pradesh,2210798
+2023,3,states,7,bihar,2114351
+2023,3,states,8,telangana,1844528
+2023,3,states,9,tamil nadu,1731234
+2023,3,states,10,gujarat,1639176
+2023,3,districts,1,bengaluru urban district,1259388
+2023,3,districts,2,pune district,949982
+2023,3,districts,3,mumbai suburban district,644927
+2023,3,districts,4,jaipur district,595851
+2023,3,districts,5,thane district,584597
+2023,3,districts,6,ahmedabad district,417684
+2023,3,districts,7,north twenty four parganas district,400214
+2023,3,districts,8,chennai district,353279
+2023,3,districts,9,hyderabad district,350108
+2023,3,districts,10,medchal malkajgiri district,349738
+2023,4,states,1,uttar pradesh,5820508
+2023,4,states,2,maharashtra,4866495
+2023,4,states,3,west bengal,2741155
+2023,4,states,4,karnataka,2616609
+2023,4,states,5,rajasthan,2406772
+2023,4,states,6,madhya pradesh,2279592
+2023,4,states,7,bihar,2194129
+2023,4,states,8,telangana,1893687
+2023,4,states,9,tamil nadu,1783632
+2023,4,states,10,gujarat,1672361
+2023,4,districts,1,bengaluru urban district,1281828
+2023,4,districts,2,pune district,980448
+2023,4,districts,3,mumbai suburban district,653390
+2023,4,districts,4,jaipur district,612405
+2023,4,districts,5,thane district,598854
+2023,4,districts,6,ahmedabad district,424023
+2023,4,districts,7,north twenty four parganas district,412049
+2023,4,districts,8,chennai district,358458
+2023,4,districts,9,medchal malkajgiri district,357890
+2023,4,districts,10,hyderabad district,356730
+2024,1,states,1,uttar pradesh,6019346
+2024,1,states,2,maharashtra,5039829
+2024,1,states,3,west bengal,2845547
+2024,1,states,4,karnataka,2702444
+2024,1,states,5,rajasthan,2513905
+2024,1,states,6,madhya pradesh,2371698
+2024,1,states,7,bihar,2272717
+2024,1,states,8,telangana,1974451
+2024,1,states,9,tamil nadu,1856637
+2024,1,states,10,gujarat,1734621
+2024,1,districts,1,bengaluru urban district,1312454
+2024,1,districts,2,pune district,1021949
+2024,1,districts,3,mumbai suburban district,666891
+2024,1,districts,4,jaipur district,636629
+2024,1,districts,5,thane district,619717
+2024,1,districts,6,ahmedabad district,437758
+2024,1,districts,7,north twenty four parganas district,427015
+2024,1,districts,8,medchal malkajgiri district,372501
+2024,1,districts,9,hyderabad district,369386
+2024,1,districts,10,chennai district,366990
+2024,2,states,1,uttar pradesh,6248571
+2024,2,states,2,maharashtra,5168187
+2024,2,states,3,west bengal,2941809
+2024,2,states,4,karnataka,2776153
+2024,2,states,5,rajasthan,2630384
+2024,2,states,6,madhya pradesh,2466722
+2024,2,states,7,bihar,2362109
+2024,2,states,8,telangana,2034941
+2024,2,states,9,tamil nadu,1925501
+2024,2,states,10,gujarat,1790863
+2024,2,districts,1,bengaluru urban district,1338729
+2024,2,districts,2,pune district,1050480
+2024,2,districts,3,mumbai suburban district,677202
+2024,2,districts,4,jaipur district,660970
+2024,2,districts,5,thane district,635673
+2024,2,districts,6,ahmedabad district,448746
+2024,2,districts,7,north twenty four parganas district,439285
+2024,2,districts,8,medchal malkajgiri district,381962
+2024,2,districts,9,hyderabad district,377759
+2024,2,districts,10,chennai district,374101
+2024,3,states,1,uttar pradesh,6485244
+2024,3,states,2,maharashtra,5298716
+2024,3,states,3,west bengal,3036684
+2024,3,states,4,karnataka,2853759
+2024,3,states,5,rajasthan,2738128
+2024,3,states,6,madhya pradesh,2568230
+2024,3,states,7,bihar,2458579
+2024,3,states,8,telangana,2090746
+2024,3,states,9,tamil nadu,1991578
+2024,3,states,10,gujarat,1845568
+2024,3,districts,1,bengaluru urban district,1366069
+2024,3,districts,2,pune district,1080668
+2024,3,districts,3,mumbai suburban district,687285
+2024,3,districts,4,jaipur district,682795
+2024,3,districts,5,thane district,652226
+2024,3,districts,6,ahmedabad district,458729
+2024,3,districts,7,north twenty four parganas district,450952
+2024,3,districts,8,medchal malkajgiri district,390862
+2024,3,districts,9,hyderabad district,386459
+2024,3,districts,10,rangareddy district,382432
+2024,4,states,1,uttar pradesh,6724830
+2024,4,states,2,maharashtra,5428259
+2024,4,states,3,west bengal,3131480
+2024,4,states,4,karnataka,2925825
+2024,4,states,5,rajasthan,2840940
+2024,4,states,6,madhya pradesh,2674535
+2024,4,states,7,bihar,2553973
+2024,4,states,8,telangana,2147214
+2024,4,states,9,tamil nadu,2054574
+2024,4,states,10,gujarat,1897442
+2024,4,districts,1,bengaluru urban district,1389416
+2024,4,districts,2,pune district,1109491
+2024,4,districts,3,jaipur district,704128
+2024,4,districts,4,mumbai suburban district,697026
+2024,4,districts,5,thane district,668416
+2024,4,districts,6,ahmedabad district,468242
+2024,4,districts,7,north twenty four parganas district,461874
+2024,4,districts,8,medchal malkajgiri district,400364
+2024,4,districts,9,hyderabad district,394816
+2024,4,districts,10,rangareddy district,392955
+2025,1,states,1,uttar pradesh,6931337
+2025,1,states,2,maharashtra,5550838
+2025,1,states,3,west bengal,3221457
+2025,1,states,4,karnataka,2990287
+2025,1,states,5,rajasthan,2927213
+2025,1,states,6,madhya pradesh,2763468
+2025,1,states,7,bihar,2640021
+2025,1,states,8,telangana,2196581
+2025,1,states,9,tamil nadu,2114180
+2025,1,states,10,gujarat,1942361
+2025,1,districts,1,bengaluru urban district,1411748
+2025,1,districts,2,pune district,1136584
+2025,1,districts,3,jaipur district,722465
+2025,1,districts,4,mumbai suburban district,706533
+2025,1,districts,5,thane district,684682
+2025,1,districts,6,ahmedabad district,477792
+2025,1,districts,7,north twenty four parganas district,472892
+2025,1,districts,8,medchal malkajgiri district,408735
+2025,1,districts,9,hyderabad district,402219
+2025,1,districts,10,rangareddy district,402101
+2025,2,states,1,uttar pradesh,7118781
+2025,2,states,2,maharashtra,5653784
+2025,2,states,3,west bengal,3307755
+2025,2,states,4,karnataka,3049279
+2025,2,states,5,rajasthan,3005610
+2025,2,states,6,madhya pradesh,2838187
+2025,2,states,7,bihar,2722198
+2025,2,states,8,telangana,2246001
+2025,2,states,9,tamil nadu,2173347
+2025,2,states,10,gujarat,1982430
+2025,2,districts,1,bengaluru urban district,1432918
+2025,2,districts,2,pune district,1160511
+2025,2,districts,3,jaipur district,740595
+2025,2,districts,4,mumbai suburban district,715135
+2025,2,districts,5,thane district,697157
+2025,2,districts,6,ahmedabad district,486386
+2025,2,districts,7,north twenty four parganas district,484272
+2025,2,districts,8,medchal malkajgiri district,417270
+2025,2,districts,9,rangareddy district,410444
+2025,2,districts,10,hyderabad district,408540
+2025,3,states,1,uttar pradesh,7328300
+2025,3,states,2,maharashtra,5758748
+2025,3,states,3,west bengal,3397402
+2025,3,states,4,karnataka,3108462
+2025,3,states,5,rajasthan,3082538
+2025,3,states,6,madhya pradesh,2916083
+2025,3,states,7,bihar,2811281
+2025,3,states,8,telangana,2298730
+2025,3,states,9,tamil nadu,2227787
+2025,3,states,10,gujarat,2020150
+2025,3,districts,1,bengaluru urban district,1455065
+2025,3,districts,2,pune district,1185788
+2025,3,districts,3,jaipur district,758869
+2025,3,districts,4,mumbai suburban district,724057
+2025,3,districts,5,thane district,708386
+2025,3,districts,6,north twenty four parganas district,496309
+2025,3,districts,7,ahmedabad district,493417
+2025,3,districts,8,medchal malkajgiri district,426420
+2025,3,districts,9,rangareddy district,419596
+2025,3,districts,10,hyderabad district,414946
+2025,4,states,1,uttar pradesh,7586405
+2025,4,states,2,maharashtra,5890201
+2025,4,states,3,west bengal,3501166
+2025,4,states,4,karnataka,3182349
+2025,4,states,5,rajasthan,3178588
+2025,4,states,6,madhya pradesh,3018653
+2025,4,states,7,bihar,2921494
+2025,4,states,8,telangana,2374216
+2025,4,states,9,tamil nadu,2282219
+2025,4,states,10,gujarat,2064443
+2025,4,districts,1,bengaluru urban district,1479494
+2025,4,districts,2,pune district,1215146
+2025,4,districts,3,jaipur district,782677
+2025,4,districts,4,mumbai suburban district,733227
+2025,4,districts,5,thane district,719889
+2025,4,districts,6,north twenty four parganas district,509500
+2025,4,districts,7,ahmedabad district,501585
+2025,4,districts,8,medchal malkajgiri district,438908
+2025,4,districts,9,rangareddy district,432564
+2025,4,districts,10,hyderabad district,422307
+2026,1,states,1,uttar pradesh,7724417
+2026,1,states,2,maharashtra,6005973
+2026,1,states,3,west bengal,3567960
+2026,1,states,4,karnataka,3241683
+2026,1,states,5,rajasthan,3240632
+2026,1,states,6,madhya pradesh,3081980
+2026,1,states,7,bihar,2994241
+2026,1,states,8,telangana,2425675
+2026,1,states,9,tamil nadu,2318838
+2026,1,states,10,gujarat,2100808
+2026,1,districts,1,bengaluru urban district,1498110
+2026,1,districts,2,pune district,1238659
+2026,1,districts,3,jaipur district,796569
+2026,1,districts,4,mumbai suburban district,742516
+2026,1,districts,5,thane district,731708
+2026,1,districts,6,north twenty four parganas district,518452
+2026,1,districts,7,ahmedabad district,508603
+2026,1,districts,8,medchal malkajgiri district,446806
+2026,1,districts,9,rangareddy district,441736
+2026,1,districts,10,hyderabad district,427788
+2026,2,states,1,uttar pradesh,7866204
+2026,2,states,2,maharashtra,6113793
+2026,2,states,3,west bengal,3631496
+2026,2,states,4,rajasthan,3314270
+2026,2,states,5,karnataka,3305459
+2026,2,states,6,madhya pradesh,3144386
+2026,2,states,7,bihar,3076811
+2026,2,states,8,telangana,2481953
+2026,2,states,9,tamil nadu,2358819
+2026,2,states,10,gujarat,2136458
+2026,2,districts,1,bengaluru urban district,1517644
+2026,2,districts,2,pune district,1261805
+2026,2,districts,3,jaipur district,813696
+2026,2,districts,4,mumbai suburban district,749720
+2026,2,districts,5,thane district,741350
+2026,2,districts,6,north twenty four parganas district,526367
+2026,2,districts,7,ahmedabad district,515128
+2026,2,districts,8,medchal malkajgiri district,455298
+2026,2,districts,9,rangareddy district,452117
+2026,2,districts,10,hyderabad district,433462
